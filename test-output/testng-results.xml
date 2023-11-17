@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-13T16:37:35 IST" name="Default suite" finished-at="2023-11-13T16:38:37 IST" duration-ms="61954">
+    <groups>
+    </groups>
+    <test started-at="2023-11-13T16:37:35 IST" name="Default test" finished-at="2023-11-13T16:38:37 IST" duration-ms="61954">
+      <class name="bmpd.tests.FilterValidation">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:bmpd.tests.FilterValidation@71ba6d4e]" started-at="2023-11-13T16:37:35 IST" name="launchApplication" finished-at="2023-11-13T16:37:41 IST" duration-ms="5636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="numberofAirlinesValidation()[pri:0, instance:bmpd.tests.FilterValidation@71ba6d4e]" started-at="2023-11-13T16:37:41 IST" name="numberofAirlinesValidation" finished-at="2023-11-13T16:38:37 IST" duration-ms="56143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberofAirlinesValidation -->
+        <test-method is-config="true" signature="closeApplacation()[pri:0, instance:bmpd.tests.FilterValidation@71ba6d4e]" started-at="2023-11-13T16:38:37 IST" name="closeApplacation" finished-at="2023-11-13T16:38:37 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplacation -->
+      </class> <!-- bmpd.tests.FilterValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
